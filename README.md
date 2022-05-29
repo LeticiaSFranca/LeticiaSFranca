@@ -5,9 +5,11 @@
 - ✏️ <b> No momento estou aprendendo:</b> C#, HTML e CSS.
 
 - 📫 <b> Como chegar até mim </b>: 
-       <br><br> ➡️ Email: leticiasilvafranca17@gmail.com <br>
-       ➡️ Instagram: leticia.s.franca <br>
-       ➡️ LinkeIn: Letícia França <br>
+      <div> 
+  <a href="https://www.instagram.com/leticia.s.franca/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:leticiasilvafranca17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiasfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       </div>
        
 - 🌷 <b> Curiosidades sobre mim </b>: Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar e editar vídeos. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
 
@@ -24,11 +26,6 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/leticia.s.franca/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leticiasilvafranca17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticiasfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
