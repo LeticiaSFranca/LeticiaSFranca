@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou cursando o <b> Ensino Médio Técnico em Informática </b> no Colégio e Faculdade <b> Cotemig</b>.
 
-- ✏️ <b> No momento estou aprendendo:</b> C#, HTML e CSS.
+- ✏️ <b> No momento estou aprendendo:</b> C#, HTML, CSS e um pouco de Javascript.
 
 - 📫 <b> Como chegar até mim </b>: 
       <div> 
