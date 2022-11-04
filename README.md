@@ -13,11 +13,11 @@
        
 - 🌷 <b> Curiosidades sobre mim </b>: Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar e editar vídeos. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
 
-
-  <a href="https://github.com/LeticiaSFranca">
+  <!-- <a href="https://github.com/LeticiaSFranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaSFranca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaSFranca&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
