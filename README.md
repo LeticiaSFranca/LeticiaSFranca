@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estou cursando o 3º ano Mobile no<b> Ensino Médio Técnico em Informática </b> no Colégio e Faculdade <b> Cotemig</b>.
 
-- ✏️ <b> No momento estou aprendendo:</b> C#, HTML, CSS e um pouco de Javascript.
+- ✏️ <b> No momento estou aprendendo:</b> Javascript.
 
 - 📫 <b> Como chegar até mim </b>: 
       <div> 
@@ -14,6 +14,10 @@
        </div>
        
 - 🌷 <b> Curiosidades sobre mim </b>: Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar e editar vídeos. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
+
+- 💼 <b> Trabalho </b>: Atualmente faço estágio na microempresa WE Equipamentos Para Soldas. Onde sou design, desenvolvedora Front-End e suporte de TI dentro da empresa. <a href="https://weequipamentosparasoldas.netlify.app/">WE Equipamentos</a>
+
+- 🌐 <b> Meu Portfólio: </b><a href="lsfranca.netlify.app"> Acessar </a>
 
   <!-- <a href="https://github.com/LeticiaSFranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaSFranca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
