@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estou cursando o 3º ano Mobile no<b> Ensino Médio Técnico em Informática </b> no Colégio e Faculdade <b> Cotemig</b>.
 
-- ✏️ <b> No momento estou aprendendo:</b> Javascript.
+- ✏️ <b> No momento estou aprendendo:</b> Javascript e PHP.
 
 - 📫 <b> Como chegar até mim </b>: 
       <div> 
