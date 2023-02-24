@@ -17,7 +17,7 @@
 
 - 💼 <b> Trabalho </b>: Atualmente faço estágio na microempresa WE Equipamentos Para Soldas. Onde sou design, desenvolvedora Front-End e suporte de TI dentro da empresa. <a href="https://weequipamentosparasoldas.netlify.app/">WE Equipamentos</a>
 
-- 🌐 <b> Meu Portfólio: </b><a href="lsfranca.netlify.app"> Acessar </a>
+- 🌐 <b> Meu Portfólio: </b><a href="https://lsfranca.netlify.app/"> Acessar </a>
 
   <!-- <a href="https://github.com/LeticiaSFranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaSFranca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
