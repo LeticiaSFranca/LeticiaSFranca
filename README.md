@@ -2,7 +2,7 @@
 
  ##
 
-- 📚 Atualmente estou cursando o 3º ano Mobile no<b> Ensino Médio Técnico em Informática </b> no Colégio e Faculdade <b> Cotemig</b>.
+- 📚 Atualmente estou cursando o 3º ano Mobile no<b> Ensino Médio Técnico em Informática </b> no <b>Colégio Cotemig</b>.
 
 - ✏️ <b> No momento estou aprendendo:</b> Javascript e PHP.
 
@@ -15,7 +15,9 @@
        
 - 🌷 <b> Curiosidades sobre mim </b>: Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar e editar vídeos. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
 
-- 💼 <b> Trabalho </b>: Atualmente faço estágio na microempresa WE Equipamentos Para Soldas. Onde sou design, desenvolvedora Front-End e suporte de TI dentro da empresa. <a href="https://weequipamentosparasoldas.netlify.app/">WE Equipamentos</a>
+- 💼 <b> Experiências </b>: <br>
+  -> Estágio na microempresa WE Equipamentos, de design, desenvolvedora Front-End e suporte de TI dentro da empresa. <br>
+  <a href="https://weequipamentos.com/">WE Equipamentos</a>
 
 - 🌐 <b> Meu Portfólio: </b><a href="https://lsfranca.netlify.app/"> Acessar </a>
 
