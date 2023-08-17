@@ -8,7 +8,7 @@
 
 - 📫 <b> Como chegar até mim </b>: 
       <div> 
-  <!-- <a href="https://www.instagram.com/leticia.s.franca/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --> 
+  <a href="https://www.youtube.com/@leticia.s.franca" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:leticiasilvafranca17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiasfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
        </div>
@@ -16,8 +16,12 @@
 - 🌷 <b> Curiosidades sobre mim </b>: Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar e editar vídeos. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
 
 - 💼 <b> Experiências </b>: <br>
-  -> Estágio na microempresa WE Equipamentos, de design, desenvolvedora Front-End e suporte de TI dentro da empresa. <br>
-  <a href="https://weequipamentos.com/">WE Equipamentos</a>
+  - <b>We Equipamentos:</b> Estágio em Design e em Desenvolvimento Front-End <br>
+  <a href="https://weequipamentos.com/">Acessar Site da Empresa</a> <br><br>
+  - <b>QuickFood Technologies:</b> Associada na startup como Marketing, Designer e Desenvolvedora Front-End <br>
+  <a href="https://qftech.com.br/">Acessar Site da Empresa</a><br><br>
+  - <b>Sócio Manager Digital:</b> Associada na startup como Marketing, Designer e Desenvolvedora Front-End <br>
+  <a href="https://smd.tec.br/">Acessar Site da Empresa</a><br><br>
 
 - 🌐 <b> Meu Portfólio: </b><a href="https://lsfranca.netlify.app/"> Acessar </a>
 
