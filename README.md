@@ -1,4 +1,4 @@
-### Olá Pessoal! Bem-Vindos, meu nome é Letícia! 🌻👋
+### Olá Pessoal! Bem-Vindos, meu nome é Letícia🌻!
 
  ##
 
