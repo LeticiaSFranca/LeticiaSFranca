@@ -51,12 +51,5 @@
     (Front-End, Designer and Maketing) <br><br>
 - <a href="https://smd.tec.br/">Sócio Manager Digital</a> <br>
     (Front-End, Designer and Maketing) <br>
-    
-<!-- <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeticiaSFranca}/count.svg" /></p> 
-<br>
-</div> -->
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
