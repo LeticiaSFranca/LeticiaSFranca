@@ -41,6 +41,14 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
+### My experiences:
+- <a href="https://weequipamentos.com/">WE Equipamentos</a> <br>
+    (Front-End, Designer and Maketing) <br><br>
+- <a href="https://smd.tec.br/">QuickFood Technologies</a> <br>
+    (Front-End, Designer and Maketing) <br><br>
+- <a href="https://smd.tec.br/">Sócio Manager Digital</a> <br>
+    (Front-End, Designer and Maketing) <br>
+    
 <!-- <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeticiaSFranca}/count.svg" /></p> 
