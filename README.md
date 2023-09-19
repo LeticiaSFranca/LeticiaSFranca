@@ -27,6 +27,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
@@ -40,6 +42,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp; 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![Adobe-Express](https://img.shields.io/badge/-Adobe%20Express-0D1117?style=for-the-badge&logo=adobe&labelColor=0D1117)&nbsp;
 
 ### My experiences:
 - <a href="https://weequipamentos.com/">WE Equipamentos</a> <br>
