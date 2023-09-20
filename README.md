@@ -52,4 +52,7 @@
 - <a href="https://smd.tec.br/">Sócio Manager Digital</a> <br>
     (Front-End, Designer and Maketing) <br>
 
+### My Portfolio in HTML and CSS:
+- <a href="https://lsfranca.netlify.app/" target="_blank">Click here!</a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
