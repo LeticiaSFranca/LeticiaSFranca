@@ -55,4 +55,8 @@
 ### My Portfolio in HTML and CSS:
 - <a href="https://lsfranca.netlify.app/" target="_blank">Click here!</a>
 
+### Curiosities about me:
+- Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar/editar vídeos e criar designs em geral. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
