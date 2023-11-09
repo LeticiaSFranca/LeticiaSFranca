@@ -37,8 +37,6 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp; 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
