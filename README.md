@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/leticiasfranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-## Main skills:
+## ⚙ Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
-## Studying in this moment:
+## 📚 Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -42,18 +42,18 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Adobe-Express](https://img.shields.io/badge/-Adobe%20Express-0D1117?style=for-the-badge&logo=adobe&labelColor=0D1117)&nbsp;
 
-## My experiences:
+## 👩🏼‍💻 My experiences:
 - <a href="https://weequipamentos.com/">WE Equipamentos</a> <br>
     (Front-End, Designer and Maketing) <br><br>
 - <a href="https://smd.tec.br/">QuickFood Technologies</a> <br>
     (Front-End, Designer and Maketing) <br><br>
-- <a href="https://smd.tec.br/">Sócio Manager Digital</a> <br>
-    (Front-End, Designer and Maketing) <br>
+<!-- <a href="https://smd.tec.br/">Sócio Manager Digital</a> <br>
+    (Front-End, Designer and Maketing) <br> -->
 
-## My Portfolio in HTML and CSS:
+## 🖼 My Portfolio in HTML and CSS:
 - <a href="https://lsfranca.netlify.app/" target="_blank">Click here!</a>
 
-## Curiosities about me:
+## 🎈 Curiosities about me:
 - Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar/editar vídeos e criar designs em geral. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos e posts.
 
 
