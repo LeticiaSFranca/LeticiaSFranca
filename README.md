@@ -4,6 +4,11 @@
 
 ##
 
+### 💜 Sobre mim:
+- Sou Desenvolvedora Front-end. Adoro criar interfaces visuais e ajudar as pessoas por meio do desenvolvimento web e criação de artes visuais. Gosto muito dessa área, tenho uma enorme curiosidade e satisfação em ver ideias se transformando em experiências online envolventes e intuitivas.
+
+##
+
 <br>
 
 <div align="center">  
@@ -63,12 +68,12 @@
 ##
 
 ### 🎈 Curiosidades:
-- Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções. Também gosto de montar/editar vídeos e criar designs em geral. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos, capas, posts e etc.
+- Em horários vagos gosto de andar a cavalo, um hobby que me traz mais criatividade, melhores formas de contornar problemas, inovar e buscar novas soluções, me ajuda a espairecer a mente e pensar de uma perspectiva diferente para tudo. Também gosto de montar/editar vídeos e criar designs em geral. Aproveito também que domino um pouco sobre design, e faço artes para vender, tais como: cartões de visita, logos, vídeos, capas, posts e etc.
 
 ##
 
 <br>
 
-[![Letícia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaSFranca&bg_color=420516&color=E63E6D&line=00ced1&point=E63E6D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Letícia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaSFranca&bg_color=0d1117&color=E63E6D&line=00ced1&point=E63E6D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E63E6D&height=120&section=footer"/>
