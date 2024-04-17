@@ -63,7 +63,7 @@
 ##
 
 ### 🎨 Meu Portfólio:
-- <a href="https://leticiafranca.vercel.app/" target="_blank">Click here!</a>
+- <a href="https://leticiafranca.com.br/" target="_blank">Click here!</a>
 
 ##
 
