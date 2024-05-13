@@ -5,7 +5,7 @@
 ##
 
 ### 💜 Sobre mim:
-- Sou Desenvolvedora Front-end. Adoro criar interfaces visuais e ajudar as pessoas por meio do desenvolvimento web e criação de artes visuais. Gosto muito dessa área, tenho uma enorme curiosidade e satisfação em ver ideias se transformando em experiências online envolventes e intuitivas.
+- Oie! Sou designer web e desenvolvedora web apaixonada por criar experiências digitais cativantes💖. Meu trabalho é impulsionado pela emoção positiva que ele pode gerar, tanto para os usuários quanto para a marca💖. Com habilidades técnicas sólidas e uma mente criativa, estou sempre em busca de desafios que me permitam inovar e superar expectativas🤩. Adoro colaborar em projetos que valorizem a excelência e o impacto positivo💖
 
 ##
 
